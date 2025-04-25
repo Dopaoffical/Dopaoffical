@@ -1,6 +1,5 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Dopa+!;Developer+%7C+Coder+%7C+Creative+Mind;Welcome" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5FB2F7&width=435&lines=front+and+back+end+dev;owner+of+dopa;also+known+as+seabunny" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -18,7 +17,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,js,github,vscode,python,react,figma,blender,clickup" />
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,github,vscode,python,react,figma,blender,clickup,discord" />
 </p>
 
 ---
